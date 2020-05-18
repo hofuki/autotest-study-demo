@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a330ef8a-128a-4d2c-b0d1-1826cd7980a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZYZX5Pm6NMSavkB43OR32FHZtG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/Restfulapi" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for baidu_ui.test_search.Test_search.test_search_from_excel">
+    <configuration name="pytest for baidu_ui.test_search.Test_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONPATH" value="D:\demo\src\baidu_ui" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;baidu_ui.test_search.Test_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for baidu_ui.test_search.Test_search.test_search_from_excel" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONPATH" value="D:\demo\src\baidu_ui" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;baidu_ui.test_search.Test_search.test_search_from_excel&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_search.Test_search.test_search_from_excel" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/baidu_ui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_search.Test_search.test_search_from_excel&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_seach.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/baidu_ui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/baidu_ui/test_seach.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_search.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/baidu_ui/test_search.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a330ef8a-128a-4d2c-b0d1-1826cd7980a8" name="Default Changelist" comment="" />
+      <created>1585018023738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585018023738</updated>
+      <workItem from="1585018066988" duration="9136000" />
+      <workItem from="1585027479890" duration="2310000" />
+      <workItem from="1585029794201" duration="5522000" />
+      <workItem from="1588045551386" duration="1647000" />
+      <workItem from="1588728013803" duration="71000" />
+      <workItem from="1588728136623" duration="98000" />
+      <workItem from="1588855058055" duration="5279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="565" y="85" key="#Inspections" timestamp="1585024899612">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="565" y="85" key="#Inspections/74.0.1462.864@74.0.1462.864" timestamp="1585024899612" />
+    <state x="400" y="80" width="1089" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585033868985">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="400" y="80" width="1089" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog/74.0.1462.864@74.0.1462.864" timestamp="1585033868985" />
+    <state x="681" y="55" key="#pytest_for_test_seach.Test_baidu_search" timestamp="1585024186317">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="681" y="55" key="#pytest_for_test_seach.Test_baidu_search/74.0.1462.864@74.0.1462.864" timestamp="1585024186317" />
+    <state x="680" y="204" key="EnvironmentVariablesDialog" timestamp="1585033867725">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="680" y="204" key="EnvironmentVariablesDialog/74.0.1462.864@74.0.1462.864" timestamp="1585033867725" />
+    <state x="774" y="182" key="FileChooserDialogImpl" timestamp="1588728231698">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="774" y="182" key="FileChooserDialogImpl/74.0.1462.864@74.0.1462.864" timestamp="1588728231698" />
+    <state width="1130" height="288" key="GridCell.Tab.0.bottom" timestamp="1585037245459">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1130" height="288" key="GridCell.Tab.0.bottom/74.0.1462.864@74.0.1462.864" timestamp="1585037245459" />
+    <state width="1130" height="288" key="GridCell.Tab.0.center" timestamp="1585037245459">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1130" height="288" key="GridCell.Tab.0.center/74.0.1462.864@74.0.1462.864" timestamp="1585037245459" />
+    <state width="1130" height="288" key="GridCell.Tab.0.left" timestamp="1585037245459">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1130" height="288" key="GridCell.Tab.0.left/74.0.1462.864@74.0.1462.864" timestamp="1585037245459" />
+    <state width="1130" height="288" key="GridCell.Tab.0.right" timestamp="1585037245459">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1130" height="288" key="GridCell.Tab.0.right/74.0.1462.864@74.0.1462.864" timestamp="1585037245459" />
+    <state width="970" height="244" key="GridCell.Tab.1.bottom" timestamp="1585027466443">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="970" height="244" key="GridCell.Tab.1.bottom/74.0.1462.864@74.0.1462.864" timestamp="1585027466443" />
+    <state width="970" height="244" key="GridCell.Tab.1.center" timestamp="1585027466441">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="970" height="244" key="GridCell.Tab.1.center/74.0.1462.864@74.0.1462.864" timestamp="1585027466441" />
+    <state width="970" height="244" key="GridCell.Tab.1.left" timestamp="1585027466441">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="970" height="244" key="GridCell.Tab.1.left/74.0.1462.864@74.0.1462.864" timestamp="1585027466441" />
+    <state width="970" height="244" key="GridCell.Tab.1.right" timestamp="1585027466442">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="970" height="244" key="GridCell.Tab.1.right/74.0.1462.864@74.0.1462.864" timestamp="1585027466442" />
+    <state x="495" y="69" key="SettingsEditor" timestamp="1588045672970">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="495" y="69" key="SettingsEditor/74.0.1462.864@74.0.1462.864" timestamp="1588045672970" />
+    <state x="499" y="231" key="com.intellij.ide.util.TipDialog" timestamp="1588855061015">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="499" y="231" key="com.intellij.ide.util.TipDialog/74.0.1462.864@74.0.1462.864" timestamp="1588855061015" />
+  </component>
+</project>
